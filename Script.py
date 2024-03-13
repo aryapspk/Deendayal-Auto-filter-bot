@@ -1,7 +1,3 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
-
 
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a><b>,\n\nI Am The Most Powerful Auto Filter Bot With Premium Features.<b>\n\n<b> ⚜️ MANTAINED BY 👉 <a href=https://t.me/Sorry_Sorry_Galti_Ho_Gai>Deendayal</a></b>"""
@@ -684,11 +680,6 @@ special Thanks To ❤️ Developers -
 
 - Dev 4 <a href='https://t.me/Deendayal_dhakad'>Deendayal Dhakad</a>
 """
-
-
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
 
 
     
