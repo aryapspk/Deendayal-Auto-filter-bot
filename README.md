@@ -117,7 +117,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/deendayal403/Advance-Auto-filter-bot">
+<a href="https://heroku.com/deploy?template=https://github.com/deendayal403/Deendayal-Auto-filter-bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -129,7 +129,7 @@
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/deendayal403/Advance-Auto-filter-bot-branch=Deendayal_dhakad&name=Advance-Auto-filter-bot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/deendayal403/Deendayal-Auto-filter-bot-branch=Deendayal_dhakad&name=Deendayal-Auto-filter-bot)
 </details>
 
 <details><summary>Deploy To Render</summary>
@@ -156,7 +156,7 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/deendayal 403/Advance-Auto-filter-bot/tree/main">
+<a href="https://render.com/deploy?repo=https://github.com/deendayal403/Deendayal-Auto-filter-bot/tree/main">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -164,7 +164,7 @@ Use these settings when adding a monitor:</b>
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/VJBots/VJ-Filter-Bot
+git clone https://github.com/deendayal403/Deendayal-Auto-filter-bot
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -178,8 +178,8 @@ python3 bot.py
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- - Thanks To VJ For His Awesome [Media-Search-bot](https://github.com/deendayal403/Advance-Auto-filter-bot)
- - Thanks To [Deendayal dhakad](https://youtube.com/Deendayal_dhakad370)
+ - Thanks To Deendayal Dhakad For His Awesome [Media-Search-bot](https://github.com/deendayal403/Deendayal-Auto-filter-bot)
+ - Thanks To [Deendayal dhakad](https://youtube.com/@Deendayal_dhakad370)
  - Thanks To LazyDeveloperr for stream feature
  - Thanks To All Everyone In This Journey
 
