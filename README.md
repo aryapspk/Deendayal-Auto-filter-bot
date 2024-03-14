@@ -111,13 +111,13 @@
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/VJBots/VJ-Filter-Bot/blob/main/info.py) for more optional variables
+* Check [info.py](https://github.com/deendayal 403/Advance-Auto-filter-bot/blob/main/info.py) for more optional variables
 
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/VJBots/VJ-Filter-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/deendayal403/Advance-Auto-filter-bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -129,7 +129,7 @@
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/VJBots/VJ-Filter-BotAuto-branch=Tech_VJ&name=VJ-Filter-bot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/deendayal403/Advance-Auto-filter-bot-branch=Deendayal_dhakad&name=Advance-Auto-filter-bot)
 </details>
 
 <details><summary>Deploy To Render</summary>
@@ -156,7 +156,7 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/VJBots/VJ-Filter-Bot/tree/main">
+<a href="https://render.com/deploy?repo=https://github.com/deendayal 403/Advance-Auto-filter-bot/tree/main">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
@@ -178,17 +178,17 @@ python3 bot.py
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- - Thanks To VJ For His Awesome [Media-Search-bot](https://github.com/VJBots)
- - Thanks To [Tech VJ](https://youtube.com/@Tech_VJ)
+ - Thanks To VJ For His Awesome [Media-Search-bot](https://github.com/deendayal403/Advance-Auto-filter-bot)
+ - Thanks To [Deendayal dhakad](https://youtube.com/Deendayal_dhakad370)
  - Thanks To LazyDeveloperr for stream feature
  - Thanks To All Everyone In This Journey
 
 ## Note 🏷️
  
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/VJ_Bots)
-* * [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/kingvj01)
+* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/Deendayal_dhakad)
+* * [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/Sorry_Sorry_Galti_Ho_Gai)
 
-[Note To A So Called Dev](https://telegram.dog/vj_botz): 
+[Note To A So Called Dev](https://telegram.dog/Sorry_Sorry_Galti_Ho_Gai): 
 
 Fork the repo and edit as per your needs.
 
