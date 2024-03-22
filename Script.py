@@ -1,14 +1,14 @@
 
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a><b>,\n\nI Am The Most Powerful Auto Filter Bot With Premium Features.<b>\n\n<b> ⚜️ MANTAINED BY 👉 <a href=https://t.me/Sorry_Sorry_Galti_Ho_Gai>Deendayal</a></b>"""
+    START_TXT = """<b>Hᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a><b>,\n\nI Am The Most Powerful Auto Filter Bot With Premium Features.<b>\n\n<b> ⚜️ MANTAINED BY 👉 <a href=https://t.me/MnT_Linkss>MnT Linkss</a></b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Deendayal_dhakad>Deendayal Dhakad 🇮🇳</a>
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/MnT_Linkss>MnT Linkss ❤️</a>
  ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Sorry_Sorry_Galti_Ho_Gai'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a> 
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/MnTUploaderBot'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -20,10 +20,10 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Where is source code? - <a href='telegram.me/Deendayal_dhakad'>Deendayal Dhakad</a></b>
+Where is source code? - <a href='telegram.me/MnT_Linkss'>MnT_Linkss</a></b>
 
 
-Developer - <a href='https://t.me/Sorry_Sorry_Galti_Ho_Gai'>Jai Shri Ram</a></b>"""
+Developer - <a href='https://t.me/MnTUploaderBot'>MnT Admin</a></b>"""
 
 
 
@@ -50,7 +50,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/Deendayal_dhakad2/3)</code>
+<code>[Button Text](buttonurl:https://t.me/MnT_Linkss/3)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -83,9 +83,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/Deendayal_dhakad>Deendayal Dhakad</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/MnTUploaderBot>MnT Admin</a></b>
   
- <b>✯ Join here : <a href=https://t.me/Deendayal_dhakad>☢Join my updateds☢</a></b> 
+ <b>✯ Join here : <a href=https://t.me/MnT_Linkss>☢Join my updateds☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -209,7 +209,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 <b> Size ⚙️: {file_size}
 
-<b> ⚜️ Powered By : <a href=https://t.me/Deendayal_dhakad>[Deendayal_Dhakad]</a></b>"""
+<b> ⚜️ Powered By : <a href=https://t.me/MnT_Linkss>[MnT Linkss]</a></b>"""
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
 
@@ -672,13 +672,13 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/Sorry_Sorry_Galti_Ho_Gai'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/MnTUploaderBot'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
 
--Dev 2 <a href='https://t.me/Deendayal_dhakad'>Deendayal dhakad</a>
+-Dev 2 <a href='https://t.me/MnT_Linkss'>MnT Linkss</a>
 
--Dev 3 <a href='https://t.me/Deendayal_dhakad_Group'>Jᴏᴇʟ </> TɢX</a>
+-Dev 3 <a href='https://t.me/+EqutKIHl4vE1Mzll'>Jᴏᴇʟ </> TɢX</a>
 
-- Dev 4 <a href='https://t.me/Deendayal_dhakad'>Deendayal Dhakad</a>
+- Dev 4 <a href='https://t.me/MnTUploaderBot'>MnT Admin</a>
 """
 
 
